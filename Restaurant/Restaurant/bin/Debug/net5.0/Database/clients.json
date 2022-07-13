@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "O'tkirbek Sobirjonov",
+    "PhoneNumber": "976260619",
+    "Gender": 0,
+    "Address": "Namangan shahar"
+  },
+  {
+    "Id": 2,
+    "Name": "Kamolov Alisher",
+    "PhoneNumber": "978887733",
+    "Gender": 0,
+    "Address": "Toshkent shahar"
+  }
+]
